@@ -5,9 +5,7 @@ Pretendo, mediante diversas metodologías, desarrollar en el infante, los concep
 sino como herramientas de trabajo  cotidianas en su futuro proximo. 
 
 Como mi inspiración proviene de la experiencia propia, pretendo que este conocimiento sea de dominio público y  en este foro, queda estrictamente prohibido a  
-cualquier persona, organización, grupo, representación, gobierno y cualquier forma, 
-de organización humana o transhumana, hacer uso de este material para fines de lucro en cualesquiera de sus modalidades, (venta, distribución, base de conocimientos, 
-base de construcción de software o hardware, ingeniería de software, ingeniería inversa, etc.)
+cualquier persona, organización, grupo, representación, gobierno y cualquier forma, de organización humana o transhumana, hacer uso de este material para fines de lucro en cualesquiera de sus modalidades, (venta, distribución, base de conocimientos, base de construcción de software o hardware, ingeniería de software, ingeniería inversa, etc.)
 
 Este material es gratuito para toda persona que desee integrarlo a su base de conocimientos y que sirva de base para su crecimiento personal.
 
